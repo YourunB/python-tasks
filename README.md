@@ -1,1 +1,1 @@
-# python-tasks
+[ДЗ5-1: Практическое задание 5](https://cups.online/ru/workareas/education_1896/887/1650/)
