@@ -5,7 +5,7 @@ str_result = ''
 count = 0
 
 for l in str_lower:
-    if l.isalpha() or l == ' ':
+    if l.isalpha() or l == ' ' or l.isdigit():
         str_result += l
     else: count += 1
 
