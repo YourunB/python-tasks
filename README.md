@@ -2,5 +2,5 @@
 [task_36-1](https://cups.online/workareas/education_1896/929/1651/)   
 [task_37-1](https://cups.online/ru/workareas/education_1896/888/1688/)   
 [task_38-1](https://cups.online/ru/workareas/education_1896/928/1689/)   
-[task_39-1](https://cups.online/ru/workareas/education_1896/889/1690/)
+[task_39-1](https://cups.online/ru/workareas/education_1896/889/1690/)   
 [task_З10-1](https://cups.online/ru/workareas/education_1896/927/1691/)
