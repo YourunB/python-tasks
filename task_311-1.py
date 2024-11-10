@@ -14,7 +14,7 @@ def main():
     word_count = Counter(cleaned_words)
     
     filtered_words = [word for word, count in word_count.items()
-                      if len(word) >= 5 and has_unique_chars(word) and count > 2]
+        if len(word) >= 5 and has_unique_chars(word) and count > 2]
     
     filtered_words.sort()
     
