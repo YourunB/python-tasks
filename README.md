@@ -13,3 +13,4 @@
    
 other:   
 [task_316-1](https://cups.online/ru/workareas/education_2277/1259/2395/)   
+[task_318-1](https://cups.online/ru/workareas/education_2277/1261/2443/)   
