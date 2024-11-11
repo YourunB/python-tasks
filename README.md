@@ -8,4 +8,5 @@
 [task_З11-1](https://cups.online/ru/workareas/education_1896/890/1693/)   
    
 2   
-[task_З1-1](https://cups.online/ru/workareas/education_1897/896/1657/)
+[task_З1-1](https://cups.online/ru/workareas/education_1897/896/1657/)   
+[task_З2-1](https://cups.online/ru/workareas/education_1897/936/1696/)
