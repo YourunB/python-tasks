@@ -10,6 +10,7 @@
 2   
 [task_З1-1](https://cups.online/ru/workareas/education_1897/896/1657/)   
 [task_З2-1](https://cups.online/ru/workareas/education_1897/936/1696/)   
+[task_З3-1](https://cups.online/ru/workareas/education_1897/895/1656/)   
    
 other:   
 [task_316-1](https://cups.online/ru/workareas/education_2277/1259/2395/)   
