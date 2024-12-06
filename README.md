@@ -14,6 +14,7 @@
 [task_З4-1](https://cups.online/ru/workareas/education_1897/935/1695/)   
 [task_З5-1-generator](https://cups.online/ru/workareas/education_1897/894/1655/)   
 [task_З6-1-generator](https://cups.online/ru/workareas/education_1897/948/1707/)   
+[task_З7-1-decorator](https://cups.online/ru/workareas/education_1897/893/1654/)   
    
 other:   
 [task_316-1](https://cups.online/ru/workareas/education_2277/1259/2395/)   
