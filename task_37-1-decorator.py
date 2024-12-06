@@ -1,14 +1,14 @@
 def cache_deco(func):
-    cache = {}
+  cache = {}
 
-    def wrapper(*args):
-        if args in cache:
-            return cache[args]
-        result = func(*args)
-        cache[args] = result
-        return result
-
-    return wrapper
+  def wrapper(*args):
+    if args in cache:
+      return cache[args]
+    result = func(*args)
+    cache[args] = result
+    return result
+  
+  return wrapper
 
 code = []
 while data := input():
