@@ -16,6 +16,7 @@
 [task_З6-1-generator](https://cups.online/ru/workareas/education_1897/948/1707/)   
 [task_З7-1-decorator](https://cups.online/ru/workareas/education_1897/893/1654/)   
 [task_З8-1-decorator](https://cups.online/ru/workareas/education_1897/949/1708/)   
+[task_З9-1-efficiency-area-LEGB](https://cups.online/ru/workareas/education_1897/892/1653/)   
    
 other:   
 [task_316-1](https://cups.online/ru/workareas/education_2277/1259/2395/)   
