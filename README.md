@@ -20,6 +20,7 @@
 [task_310-1-efficiency-area-LEGB](https://cups.online/ru/workareas/education_1897/934/1694/)   
 [task_311-1-built-in-functions](https://cups.online/ru/workareas/education_1897/891/1652/)   
 [task_З12-1-built-in-functions](https://cups.online/ru/workareas/education_1897/937/1697/)   
+[task_З13-1-built-in-functions](https://cups.online/ru/workareas/education_1897/897/1658/)   
    
 other:   
 [task_316-1](https://cups.online/ru/workareas/education_2277/1259/2395/)   
