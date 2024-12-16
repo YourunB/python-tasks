@@ -15,7 +15,6 @@ class ContextDictionary:
     def get(self, key):
         return self.dictionary[key]
 
-
 code = []
 while data := input():
    code.append(data)
