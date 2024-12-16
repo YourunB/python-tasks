@@ -28,6 +28,7 @@
 [task_З3-1-classes](https://cups.online/ru/workareas/education_1898/899/1660/)   
 [task_З4-1-classes](https://cups.online/ru/workareas/education_1898/941/1701/)   
 [task_З5-1-classes](https://cups.online/ru/workareas/education_1898/900/1661/)   
+[task_З6-1-classes](https://cups.online/ru/workareas/education_1898/939/1699/)   
    
 other:   
 [task_316-1](https://cups.online/ru/workareas/education_2277/1259/2395/)   
