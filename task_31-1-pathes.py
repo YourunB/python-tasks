@@ -1,16 +1,10 @@
-import os
+numerator, denominator = int(input()), int(input())
 
-text = input()
-
-def write_and_read(text):
-    file_path = os.path.join(os.getcwd(), 'output.txt')
-    
-    with open(file_path, 'w', encoding='utf-8') as file:
-        file.write(text)
-    
-    with open(file_path, 'r', encoding='utf-8') as file:
-        result = file.read()
-    
+def changed_div(numerator, denominator):
+    try:
+        result = numerator / denominator
+    except ZeroDivisionError:
+        result = denominator
     return result
 
-print(write_and_read(text))
+print(changed_div(numerator, denominator))
