@@ -35,6 +35,7 @@
    
 4   
 [task_З1-1-pathes](https://cups.online/ru/workareas/education_1899/903/1664/)   
+[task_З2-1-pathes](https://cups.online/ru/workareas/education_1899/942/1702/)   
    
 other:   
 [task_316-1](https://cups.online/ru/workareas/education_2277/1259/2395/)   
