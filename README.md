@@ -33,6 +33,10 @@
 [task_З8-1-classes](https://cups.online/ru/workareas/education_1898/940/1700/)   
 [task_З9-1-classes](https://cups.online/ru/workareas/education_1898/902/1663/)   
    
+4   
+[task_З1-1-pathes](https://cups.online/ru/workareas/education_1899/903/1664/)   
+[task_З2-1-pathes](https://cups.online/ru/workareas/education_1899/942/1702/)   
+   
 other:   
 [task_316-1](https://cups.online/ru/workareas/education_2277/1259/2395/)   
 [task_318-1](https://cups.online/ru/workareas/education_2277/1261/2443/)   
