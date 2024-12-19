@@ -46,3 +46,4 @@ other:
 [task_318-1](https://cups.online/ru/workareas/education_2277/1261/2443/)   
 [task_З4-1-project](https://cups.online/ru/workareas/education_1899/945/1705/)   
 [task_З7-1-project](https://cups.online/ru/workareas/education_1899/906/1667/)   
+[task_39-1-project](https://cups.online/ru/workareas/education_1899/907/1668/)   
